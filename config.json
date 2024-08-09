@@ -1,0 +1,18 @@
+{
+    "api_id": 27441190,
+    "api_hash": "8bb964b7e435dfc60c9ad26f91e9fc88",
+    "password_to_remove": "",
+    "password_to_add": "",
+    "email": "germanwerg12@gmail.com",
+    "device_model": "iPhone 13 Pro Max",
+    "system_version": "14.8.1",
+    "app_version": "8.4",
+    "smtp_server": "smtp.mail.ru",
+    "smtp_port": 587,
+    "smtp_login": "rambler-pochta",
+    "smtp_password": "password",
+    "interval_min": 5,
+    "interval_max": 10,
+    "delay_after_count": 1,
+    "delay_duration": 60
+}
